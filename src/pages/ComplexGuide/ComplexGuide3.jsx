@@ -70,7 +70,7 @@ const ComplexGuide3 = () => {
         />
         <link
           rel="canonical"
-          href="https://intercs.co.kr/ComplexGuide/community"
+          href="https://www.a7lashare.com/ComplexGuide/community"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -84,11 +84,11 @@ const ComplexGuide3 = () => {
         />
         <meta
           property="og:image"
-          content="https://intercs.co.kr/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://intercs.co.kr/ComplexGuide/community"
+          content="https://www.a7lashare.com/ComplexGuide/community"
         />
         <meta property="og:site_name" content="정읍 월드메르디앙" />
 
@@ -104,11 +104,11 @@ const ComplexGuide3 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://intercs.co.kr/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://intercs.co.kr/ComplexGuide/community"
+          content="https://www.a7lashare.com/ComplexGuide/community"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -119,7 +119,7 @@ const ComplexGuide3 = () => {
 			"@type": "WebPage",
 			"name": "정읍 월드메르디앙 - 커뮤니티",
 			"description": "정읍 월드메르디앙의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.",
-			"url": "https://intercs.co.kr/ComplexGuide/community"
+			"url": "https://www.a7lashare.com/ComplexGuide/community"
 					}
 					`}
         </script>

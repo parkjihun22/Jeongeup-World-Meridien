@@ -112,7 +112,7 @@ const LocationEnvironment1 = () => {
           name="keywords"
           content="정읍 월드메르디앙, 정읍 월드메르디앙, 정읍 월드메르디앙모델하우스"
         />
-        <link rel="canonical" href="https://intercs.co.kr/LocationEnvironment/intro" />
+        <link rel="canonical" href="https://www.a7lashare.com/LocationEnvironment/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -125,11 +125,11 @@ const LocationEnvironment1 = () => {
         />
         <meta
           property="og:image"
-          content="https://intercs.co.kr/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://intercs.co.kr/LocationEnvironment/intro"
+          content="https://www.a7lashare.com/LocationEnvironment/intro"
         />
         <meta property="og:site_name" content="정읍 월드메르디앙" />
 
@@ -145,11 +145,11 @@ const LocationEnvironment1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://intercs.co.kr/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://intercs.co.kr/LocationEnvironment/intro"
+          content="https://www.a7lashare.com/LocationEnvironment/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -160,7 +160,7 @@ const LocationEnvironment1 = () => {
 			 "@type": "WebPage",
 			 "name": "정읍 월드메르디앙 - 입지안내",
 			 "description": "이 단지는 최적의 입지 조건과 우수한 교통망, 풍부한 생활 인프라, 쾌적한 녹지 환경이 완벽하게 어우러져, 편리한 생활과 미래 가치 상승을 기대할 수 있습니다. 입지안내를 통해 주변 시설, 접근성 및 발전 가능성을 상세히 확인해보세요",
-			 "url": "https://intercs.co.kr/LocationEnvironment/intro"
+			 "url": "https://www.a7lashare.com/LocationEnvironment/intro"
 				 }
 				 `}
         </script>

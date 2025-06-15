@@ -12,7 +12,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 // FAMILY SITE 목록 예시
 const partnerSites = [
   { name: "엘리프 세종 5-1", url: "https://www.sekailog.com" },
-  { name: "정읍 월드메르디앙", url: "https://intercs.co.kr/" },
+  { name: "정읍 월드메르디앙", url: "https://www.a7lashare.com/" },
   { name: "신확장 로제비앙 메가시티", url: "https://www.leecols.kr" }, 
   { name: "원종 휴먼빌 클라츠", url: "https://www.abcya4.com/" },
   { name: "신검단 로얄파크시티2", url: "https://www.sketchs.co.kr/" },
